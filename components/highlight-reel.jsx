@@ -12,32 +12,11 @@ export default function HighlightReel() {
 
         <AnimatedSection animation="fade-in-up" threshold={0.2}>
           <div className="relative aspect-video max-w-4xl mx-auto rounded-lg overflow-hidden shadow-2xl">
-            <div className="absolute inset-0 flex items-center justify-center bg-black/20">
-              <div className="w-16 h-16 rounded-full bg-gold/90 flex items-center justify-center cursor-pointer">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="24"
-                  height="24"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  className="text-white ml-1"
-                >
-                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                </svg>
-              </div>
-            </div>
-            <iframe
-              className="w-full h-full"
-              src="about:blank" // Replace with actual video embed
-              title="Highlight Reel"
-              frameBorder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
+            <video
+              src="/finalmoment.mp4"
+              controls
+              className="w-full h-full object-cover"
+            />
           </div>
         </AnimatedSection>
       </div>

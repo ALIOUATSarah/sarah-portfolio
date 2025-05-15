@@ -76,14 +76,11 @@ export default function Contact() {
 
           <div className="space-y-4">
             <p className="font-poppins">
-              <span className="font-medium">Email:</span> sarah.content@gmail.com
+              <span className="font-medium">Email:</span> saliouat75@gmail.com
             </p>
 
             <div className="flex justify-center space-x-4">
-              <Button variant="outline" className="border-gold/50 hover:bg-gold/10">
-                <Download className="mr-2 h-4 w-4" />
-                Download Resume
-              </Button>
+             
 
               <div className="flex space-x-4">
                 <a

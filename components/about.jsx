@@ -25,14 +25,14 @@ export default function About() {
                 </div>
                 <div>
                   <p className="font-medium">Tools I use:</p>
-                  <p>CapCut, InShot, Canva, Adobe Premiere Pro</p>
+                  <p>CapCut, InShot, Canva</p>
                 </div>
               </div>
             </div>
           </AnimatedSection>
           <AnimatedSection animation="fade-in" threshold={0.2}>
             <div className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-lg">
-              <Image src="/placeholder.svg?height=500&width=400" alt="Sarah Aliouat" fill className="object-cover" />
+              <Image src="/first image.jpg" alt="Sarah Aliouat" fill className="object-cover" />
             </div>
           </AnimatedSection>
         </div>

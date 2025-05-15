@@ -15,31 +15,31 @@ export default function Portfolio() {
     {
       id: 1,
       title: "NCS Hack",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/ncshack.mp4",
       caption: "Captured the energy and teamwork at NCS Hack — a fast-paced day of ideas, coding, and community.",
     },
     {
       id: 2,
       title: "Enigma Ideathon (Work & Networking)",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/momentsenigma.mp4",
       caption: "From brainstorms to deep work — a look into how students connect, collaborate, and create during Enigma.",
     },
     {
       id: 3,
       title: "Enigma Feedback",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/feedback.mp4",
       caption: "Post-event realness — I asked participants how they felt about Enigma, and their feedback says it all.",
     },
     {
       id: 4,
       title: "DevImpact Event Hangout",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/devimpact.mp4",
       caption: "Mini hangout during the DevImpact event — chill conversations, small laughs, and casual content.",
     },
     {
       id: 5,
       title: "Earth Day Snaps",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/earthday.mp4",
       caption: "Quick Earth Day memories — tiny moments of awareness, green action, and chill vibes.",
     },
   ]
@@ -49,25 +49,25 @@ export default function Portfolio() {
     {
       id: 6,
       title: "International Day of Rivers",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/international day of rivers.mp4",
       caption: "Went around campus asking students how they feel about the International Day of Rivers — raw, real answers.",
     },
     {
       id: 7,
       title: "Moana Movie Vlog",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/movie night.mp4",
       caption: "A tiny vlog of heading out to see Moana — just pure vibes, movement, and mood.",
     },
     {
       id: 8,
       title: "Living Alone in Dubai",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/dubai life.mp4",
       caption: "Life lately in Dubai — living solo, growing daily, and documenting the in-between moments.",
     },
     {
       id: 9,
       title: "Friends & Fun Moments Vlog",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/friends vlog.mp4",
       caption: "No script, just laughter — capturing the energy of real moments with friends.",
     },
   ]
@@ -77,13 +77,13 @@ export default function Portfolio() {
     {
       id: 10,
       title: "Global Village Trip",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/global village.mp4",
       caption: "Exploring Global Village through my lens — food, lights, and joyful little moments.",
     },
     {
       id: 11,
       title: "Timgad Mini Vlog",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/timgad.mp4",
       caption: "A mini travel vlog from Timgad — history, ruins, and dusty roads that tell stories.",
     },
   ]
@@ -93,7 +93,7 @@ export default function Portfolio() {
     {
       id: 12,
       title: "ASMR Boxing / Packing",
-      src: "/placeholder.svg?height=720&width=405",
+      src: "/snapins-ai_3430323552362379179.mp4",
       caption: "Satisfying ASMR-style video of packing an order — sounds, flow, and calm visuals.",
     },
   ]
